@@ -1,0 +1,35 @@
+<resources>
+    <string-array name="flower_array">
+        <item>Lily</item>
+        <item>Poppy</item>
+        <item>Sunflower</item>
+        <item>Freesia</item>
+        <item>Daisy</item>
+        <item>Rose</item>
+        <item>Daffodil</item>
+        <item>Lavender</item>
+        <item>Peony</item>
+        <item>Lilac</item>
+        <item>Dahlia</item>
+        <item>Tulip</item>
+        <item>Dandelion</item>
+    </string-array>
+    <string name="app_name">Crypto Tracker</string>
+
+    <string name="price_usd">00.00</string>
+    <string name="OneHour">1hr:</string>
+    <string name="OneHourPercentage">0.00%</string>
+    <string name="TwentyFourHour">24hr:</string>
+    <string name="TwentyFourHourPercentage">0.00%</string>
+    <string name="SevenDays">7d:</string>
+    <string name="SevenDayPercentage">0.00%</string>
+    <string name="Supply">Supply</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="open">open</string>
+    <string name="statistics">Statistics</string>
+    <string name="volume">Volume</string>
+    <string name="average_volume">Change (24h)</string>
+    <string name="title_activity_launcher">launcher</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
