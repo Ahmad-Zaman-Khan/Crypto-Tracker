@@ -41,8 +41,10 @@ The app fetches cryptocurrency data from the Coinmarketcap API.
 
 ## Screenshots
 
-<img src="Screenshot1.png" alt="Screenshot 1" width="250" height="500">
-<img src="Screenshot2.png" alt="Screenshot 2" width="250" height="500">
+
+<img src="Screenshot1.png" alt="Screenshot 1" width="250" height="400">
+
+<img src="Screenshot2.png" alt="Screenshot 2" width="250" height="400">
 
 [//]: # (![Screenshot 1]&#40;Screenshot1.png&#41;)
 
