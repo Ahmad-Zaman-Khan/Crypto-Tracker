@@ -1,4 +1,4 @@
-# CryptoTracker Android App
+## CryptoTracker Android App
 
 CryptoTracker is an Android application that allows users to track the latest market data for Bitcoin and other cryptocurrencies. The app makes API calls to fetch real-time price and market information and stores the data locally using Room Database. Users can view the data within the app for better insights into the cryptocurrency market.
 
@@ -29,11 +29,17 @@ CryptoTracker is an Android application that allows users to track the latest ma
 
 ### Technologies Used
 
-- Android Studio: The official integrated development environment for Android app development.
-- Java: The programming language used for Android app development.
-- Room Database: A SQLite object mapping library for Android that makes it easier to work with databases.
-- Retrofit: A type-safe HTTP client for Android and Java that simplifies API consumption.
+- Android Studio
+- Java
+- XML
+- Room Database
+- Retrofit
 
 ### API Used
 
 The app fetches cryptocurrency data from the Coinmarketcap API.
+
+## Screenshots
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
