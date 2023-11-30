@@ -22,4 +22,18 @@ CryptoTracker is an Android application that allows users to track the latest ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CryptoTracker.git
+   git clone https://github.com/Ahmad-Zaman-Khan/CryptoTracker.git
+   
+2. Open the project in Android Studio.
+3. Build and run the app on an emulator or physical device.
+
+### Technologies Used
+
+- Android Studio: The official integrated development environment for Android app development.
+- Java: The programming language used for Android app development.
+- Room Database: A SQLite object mapping library for Android that makes it easier to work with databases.
+- Retrofit: A type-safe HTTP client for Android and Java that simplifies API consumption.
+
+### API Used
+
+The app fetches cryptocurrency data from the Coinmarketcap API.
